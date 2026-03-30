@@ -31,7 +31,7 @@ An interactive browser-based simulator for digital logic gates, built as a learn
 | XNOR | Y = A ⊙ B | High when inputs are equal |
 
 ## Relevance
-Built as a supplementary tool for the Digital Electronics & Logic Design course at Mahindra University. Directly applies concepts from ECE coursework in an interactive web format.
+Built as a supplementary tool for the Digital Electronics & Logic Design course at Mahindra University. Directly applies concepts from ECM coursework in an interactive web format.
 
 ## Author
 **Rachit Ajmera** — Electronics & Computer Engineering, Mahindra University
