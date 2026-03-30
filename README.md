@@ -1,16 +1,16 @@
-# LogicSim — Digital Logic Gate Simulator ⚡
+LogicSim — Digital Logic Gate Simulator 
 
 An interactive browser-based simulator for digital logic gates, built as a learning tool for ECE students studying Digital Electronics. Visualises gate behaviour with real-time input toggling and live truth tables.
 
 ## Features
-- 🔧 7 gates: AND, OR, NOT, NAND, NOR, XOR, XNOR
-- ⚡ Real-time input toggling with animated wire state changes
-- 📋 Live truth table with current input row highlighted
-- 🖥️ SVG gate symbol rendering for each gate type
-- 📐 Boolean expression displayed for each gate
-- 🌙 Dark terminal-style UI optimised for readability
+- 7 gates: AND, OR, NOT, NAND, NOR, XOR, XNOR
+-  Real-time input toggling with animated wire state changes
+- Live truth table with current input row highlighted
+- SVG gate symbol rendering for each gate type
+- Boolean expression displayed for each gate
+- Dark terminal-style UI optimised for readability
 
-## Tech Stack
+ Tech Stack
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Graphics:** Inline SVG (no canvas library)
 - **No dependencies — fully offline capable**
